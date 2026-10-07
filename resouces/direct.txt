@@ -1,0 +1,69 @@
+# tag代理
+tagss14.pro
+
+# tvbox
+full:fs-im-kefu.7moor-fs1.com
+
+# 京东
+jd.com
+360buyimg.com
+
+# 淘宝
+taobao.com
+alicdn.com
+hzshudian.com
+
+# 盒马
+freshippo.com
+
+# 同花顺
+51ifind.cn
+
+# 东方财富
+dfcfw.com
+
+# 网易
+netease.im
+
+# 字节
+snssdk.com
+
+# 华硕
+asuscomm.com
+
+# 苹果
+gc.apple.com
+gsa.apple.com
+gsas.apple.com
+gdmf.apple.com
+wps.apple.com
+push.apple.com
+itunes.apple.com
+cdn-apple.com
+gateway.icloud.com
+mask.icloud.com
+mask-api.icloud.com
+
+# 微软
+dds.microsoft.com
+data.microsoft.com
+edge.microsoft.com
+update.microsoft.com
+wns.windows.com
+activity.windows.com
+login.live.com
+ecs.office.com
+
+# syncthing
+full:discovery-lookup.syncthing.net
+full:discovery-announce-v4.syncthing.net
+
+# 1panel
+docker.1panel.live
+
+# huggingface
+hf-mirror.com
+
+# 区块链 rpc
+publicnode.com
+g.alchemy.com
