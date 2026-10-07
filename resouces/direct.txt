@@ -2,7 +2,7 @@
 tagss14.pro
 
 # tvbox
-full:fs-im-kefu.7moor-fs1.com
+fs-im-kefu.7moor-fs1.com
 
 # 京东
 jd.com
@@ -55,8 +55,8 @@ login.live.com
 ecs.office.com
 
 # syncthing
-full:discovery-lookup.syncthing.net
-full:discovery-announce-v4.syncthing.net
+discovery-lookup.syncthing.net
+discovery-announce-v4.syncthing.net
 
 # 1panel
 docker.1panel.live
