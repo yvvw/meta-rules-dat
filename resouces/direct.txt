@@ -1,22 +1,24 @@
 # 京东
-jd.com
 360buyimg.com
+jd.com
 
 # 腾讯
-m.qq.com
 ab.qq.com
-map.qq.com
-imtt.qq.com
 connect.qq.com
-snowflake.qq.com
 dldir1v6.qq.com
+imtt.qq.com
+m.qq.com
+mail.qq.com
+map.qq.com
+snowflake.qq.com
 rdelivery.qq.com
+weixin.qq.com
 
 # 阿里
-taobao.com
 alicdn.com
 hzshudian.com
 mobilegw.alipay.com
+taobao.com
 # 盒马
 freshippo.com
 
@@ -24,8 +26,8 @@ freshippo.com
 passport.bilibili.com
 
 # 网易
-netease.im
 httpdns.yunxinfw.com
+netease.im
 
 # 字节
 snssdk.com
@@ -40,29 +42,29 @@ dfcfw.com
 asuscomm.com
 
 # 苹果
+cdn-apple.com
 gc.apple.com
+gateway.icloud.com
+gdmf.apple.com
 gsa.apple.com
 gsas.apple.com
-gdmf.apple.com
-wps.apple.com
-push.apple.com
 itunes.apple.com
-cdn-apple.com
 ls.apple.com
-setup.icloud.com
-gateway.icloud.com
 mask.icloud.com
 mask-api.icloud.com
+push.apple.com
+setup.icloud.com
+wps.apple.com
 
 # 微软
-dds.microsoft.com
-data.microsoft.com
+activity.windows.com
+ecs.office.com
 edge.microsoft.com
+data.microsoft.com
+dds.microsoft.com
+login.live.com
 update.microsoft.com
 wns.windows.com
-activity.windows.com
-login.live.com
-ecs.office.com
 
 # tag代理
 tagss14.pro
@@ -71,8 +73,8 @@ tagss14.pro
 fs-im-kefu.7moor-fs1.com
 
 # syncthing
-discovery-lookup.syncthing.net
 discovery-announce-v4.syncthing.net
+discovery-lookup.syncthing.net
 
 # 1panel
 docker.1panel.live
@@ -81,5 +83,5 @@ docker.1panel.live
 hf-mirror.com
 
 # 区块链 rpc
-publicnode.com
 g.alchemy.com
+publicnode.com
