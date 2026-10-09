@@ -22,6 +22,9 @@ taobao.com
 # 盒马
 freshippo.com
 
+# 高德
+amap.com
+
 # bilibili
 passport.bilibili.com
 
