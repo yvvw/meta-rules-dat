@@ -47,11 +47,13 @@ dfcfw.com
 asuscomm.com
 
 # 苹果
+afs.ampaeservices.com
 cdn-apple.com
 gc.apple.com
 gateway.icloud.com
 gdmf.apple.com
 gsa.apple.com
+gsa-gpk.apple.com
 gsas.apple.com
 itunes.apple.com
 ls.apple.com
@@ -59,6 +61,7 @@ mask.icloud.com
 mask-api.icloud.com
 push.apple.com
 setup.icloud.com
+tdms.apple.com
 wps.apple.com
 
 # 微软
