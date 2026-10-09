@@ -5,11 +5,13 @@ jd.com
 # 腾讯
 ab.qq.com
 connect.qq.com
+eas.qq.com
 dldir1v6.qq.com
 imtt.qq.com
 m.qq.com
 mail.qq.com
 map.qq.com
+qlogo.cn
 snowflake.qq.com
 rdelivery.qq.com
 weixin.qq.com
