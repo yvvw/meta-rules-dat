@@ -60,6 +60,7 @@ itunes.apple.com
 ls.apple.com
 mask.icloud.com
 mask-api.icloud.com
+metrics.icloud.com
 push.apple.com
 setup.icloud.com
 tdms.apple.com
