@@ -73,8 +73,15 @@ edge.microsoft.com
 data.microsoft.com
 dds.microsoft.com
 login.live.com
+mp.microsoft.com
 update.microsoft.com
 wns.windows.com
+
+# CDN
+cdn.jsdelivr.net
+
+# 证书
+digicert.com
 
 # tag代理
 tagss14.pro
