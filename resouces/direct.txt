@@ -83,9 +83,6 @@ cdn.jsdelivr.net
 # 证书
 digicert.com
 
-# tag代理
-tagss14.pro
-
 # tvbox
 fs-im-kefu.7moor-fs1.com
 
@@ -102,3 +99,11 @@ hf-mirror.com
 # 区块链 rpc
 g.alchemy.com
 publicnode.com
+
+# tag
+tagss14.pro
+captive.apple.com
+msftconnecttest.com
+connect.rom.miui.com
+connectivitycheck.gstatic.com
+connectivitycheck.platform.hicloud.com
